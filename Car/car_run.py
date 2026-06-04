@@ -4,4 +4,5 @@ class Car:
 
     def accelerate(self):
         pass
-    
+
+    def brake(self):
