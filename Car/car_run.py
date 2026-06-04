@@ -14,3 +14,6 @@ class Car:
             self.__current_speed =0
 
     def get_speed(self):
+        return self.__current_speed
+
+    def get_model_info(self):
