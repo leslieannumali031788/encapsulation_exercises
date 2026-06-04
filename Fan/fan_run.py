@@ -19,7 +19,7 @@ class Fan:
     def radius(self, value):
         return self.__radius
 
-    def radius(self):
+    def radius(self, value):
         if value > 0:
             self.__radius = float(value)
 
