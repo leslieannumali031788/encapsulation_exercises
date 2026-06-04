@@ -21,4 +21,4 @@ class Fan:
             self.__radius = float(value)
 
     def radius(self, value):
-        pass
+        return self.__radius
