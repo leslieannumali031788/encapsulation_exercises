@@ -10,3 +10,5 @@ class Car:
     def brake(self):
         if self.__current_speed >=5:
             self.__current_speed -= 5
+        else:
+            
