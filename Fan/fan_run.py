@@ -18,8 +18,10 @@ class Fan:
 
     def radius(self, value):
         return self.__radius
-    
+
     def radius(self):
         if value > 0:
             self.__radius = float(value)
+
+    def color(self):
 
