@@ -8,4 +8,5 @@ class Car:
        self.__current_speed += 5
 
     def brake(self):
-        pass
+        if self.__current_speed >=5:
+            
