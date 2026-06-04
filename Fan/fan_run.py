@@ -17,7 +17,7 @@ class Fan:
             self.__speed = value
 
     def radius(self):
-        
+        if value > 0:
 
     def radius(self, value):
         pass
