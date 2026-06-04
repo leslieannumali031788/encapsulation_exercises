@@ -7,7 +7,8 @@ class Fan:
         self.speed = speed
         self.radius = float(radius)
         self.color = str(color)
-        
+        self.on = bool(on)
+
     def speed(self):
         pass
 
