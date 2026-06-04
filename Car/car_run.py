@@ -17,3 +17,4 @@ class Car:
         return self.__current_speed
 
     def get_model_info(self):
+        return f"{self.year_model} {self.make}"
