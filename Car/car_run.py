@@ -3,3 +3,5 @@ class Car:
         pass
 
     def accelerate(self):
+        pass
+    
