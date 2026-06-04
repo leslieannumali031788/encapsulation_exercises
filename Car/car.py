@@ -12,4 +12,5 @@ if __name__ == '__main__':
     for i in range(5):
         my_car.accelerate()
         print(f"Push {i + 1}: The current speed is: {my_car.get_speed()} km/h")
-        
+
+        print("\nBraking")
