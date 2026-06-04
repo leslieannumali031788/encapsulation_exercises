@@ -10,3 +10,4 @@ if __name__ == '__main__':
 
     print("Accelerating")
     for i in range(5):
+        my_car.accelerate()
