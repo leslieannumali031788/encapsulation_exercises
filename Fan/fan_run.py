@@ -24,4 +24,5 @@ class Fan:
             self.__radius = float(value)
 
     def color(self):
+        return self.__color
 
