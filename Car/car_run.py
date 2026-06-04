@@ -6,3 +6,5 @@ class Car:
         pass
 
     def brake(self):
+        pass
+    
