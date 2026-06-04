@@ -5,7 +5,7 @@ class Fan:
 
     def __init__(self, speed=SLOW, radius=5.0, color="blue", on=False):
         self.speed = speed
-        
+        self.radius = float(radius)
 
     def speed(self):
         pass
