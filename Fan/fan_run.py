@@ -10,7 +10,7 @@ class Fan:
         self.on = bool(on)
 
     def speed(self):
-        pass
+        return self.__speed
 
     def speed(self, value):
         pass
