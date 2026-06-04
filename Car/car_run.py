@@ -5,7 +5,7 @@ class Car:
         self.__current_speed = 0
 
     def accelerate(self):
-        
+       self.__current_speed += 5
 
     def brake(self):
         pass
