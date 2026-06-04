@@ -26,3 +26,5 @@ class Fan:
     def color(self):
         return self.__color
 
+    def color(self, value):
+
