@@ -9,3 +9,4 @@ if __name__ == '__main__':
     print(f"Starting speed: {my_car.get_speed()}")
 
     print("Accelerating")
+    for i in range(5):
