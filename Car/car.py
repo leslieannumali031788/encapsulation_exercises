@@ -7,3 +7,5 @@ if __name__ == '__main__':
 
     print(f"\nTesting the vehicle: {my_car.get_model_info()}")
     print(f"Starting speed: {my_car.get_speed()}")
+
+    print("Accelerating")
