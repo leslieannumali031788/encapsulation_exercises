@@ -16,9 +16,10 @@ class Fan:
         if value in [Fan.SLOW, Fan.MEDIUM, Fan.FAST]:
             self.__speed = value
 
+    def radius(self, value):
+        return self.__radius
+    
     def radius(self):
         if value > 0:
             self.__radius = float(value)
 
-    def radius(self, value):
-        return self.__radius
