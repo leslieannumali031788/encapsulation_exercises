@@ -15,9 +15,9 @@ class Fan:
     def speed(self, value):
         if value in [Fan.SLOW, Fan.MEDIUM, Fan.FAST]:
             self.__speed = value
-            
+
     def radius(self):
-        pass
+        
 
     def radius(self, value):
         pass
