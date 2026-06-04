@@ -4,3 +4,5 @@ if __name__ == '__main__':
     car_make = input("Enter car make's name:")
 
     my_car = Car(car_year, car_make)
+
+    print(f"\nTesting the vehicle: {my_car.get_model_info()}")
