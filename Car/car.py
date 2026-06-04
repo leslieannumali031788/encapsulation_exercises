@@ -15,3 +15,4 @@ if __name__ == '__main__':
 
         print("\nBraking")
         for i in range(5):
+            my_car.brake()
