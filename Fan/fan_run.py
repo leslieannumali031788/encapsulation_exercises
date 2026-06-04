@@ -13,7 +13,7 @@ class Fan:
         return self.__speed
 
     def speed(self, value):
-        pass
+        if value in [Fan.SLOW, Fan.MEDIUM, Fan.FAST]:
 
     def radius(self):
         pass
