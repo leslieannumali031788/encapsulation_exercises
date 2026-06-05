@@ -12,3 +12,5 @@ if __name__ == "__main__":
     input_age = input("Enter your pet's age: ")
 
     my_pet = Pet()
+
+    my_pet.set_name(input_name)
