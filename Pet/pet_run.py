@@ -7,9 +7,9 @@ class Pet:
 
     def set_name(self, name):
         self.__name = str(name)
-        
+
     def set_animal_type(self, animal_type):
-        pass
+        self.__animal_type = str(animal_type)
 
     def set_age(self, age):
         pass
