@@ -4,3 +4,6 @@ class Pet:
         pass
 
     def set_name(self, name):
+        pass
+
+    def set_animal_type(self, animal_type):
