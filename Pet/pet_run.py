@@ -6,8 +6,8 @@ class Pet:
         self.__age = 0
 
     def set_name(self, name):
+        self.__name = str(name)
         
-
     def set_animal_type(self, animal_type):
         pass
 
