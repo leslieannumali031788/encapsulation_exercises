@@ -14,3 +14,6 @@ class Pet:
 
     def get_name(self):
         pass
+
+    def get_animal_type(self):
+        pass
