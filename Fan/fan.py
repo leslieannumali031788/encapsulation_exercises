@@ -16,3 +16,4 @@ if __name__ == '__main__':
 
     print("FAN 1 DETAILS:")
     print(f"Speed:  {fan1.speed}")
+    print(f"Radius:  {fan1.radius}")
