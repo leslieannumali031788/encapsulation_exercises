@@ -15,10 +15,10 @@ class Pet:
 
 
     def get_name(self):
-        
+
 
     def get_animal_type(self):
-        pass
+        gi
 
     def get_age(self):
         pass
