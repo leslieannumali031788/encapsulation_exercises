@@ -30,4 +30,5 @@ class Fan:
         self.__color = str(value)
 
     def on(self):
+        return self.__on
 
