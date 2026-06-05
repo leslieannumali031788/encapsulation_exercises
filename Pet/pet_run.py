@@ -1,7 +1,7 @@
 class Pet:
 
     def __init__(self):
-        pass
+        self.__name = ""
 
     def set_name(self, name):
         pass
@@ -20,4 +20,3 @@ class Pet:
 
     def get_age(self):
         pass
-    
