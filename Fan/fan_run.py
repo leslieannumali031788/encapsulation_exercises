@@ -32,3 +32,5 @@ class Fan:
     def on(self):
         return self.__on
 
+    def on(self, value):
+        self.__on = bool(value)
