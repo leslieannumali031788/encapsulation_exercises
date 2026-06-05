@@ -1,4 +1,7 @@
 from fan_run import Fan
+YELLOW = "\033[93m"
+BLUE = "\033[94m"
+RESET = "\033[0m"
 
 if __name__ == '__main__':
 
