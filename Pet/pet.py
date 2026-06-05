@@ -14,3 +14,4 @@ if __name__ == "__main__":
     my_pet = Pet()
 
     my_pet.set_name(input_name)
+    my_pet.set_animal_type(input_type)
