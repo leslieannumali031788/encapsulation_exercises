@@ -13,3 +13,5 @@ if __name__ == '__main__':
     fan2.radius = 5.0
     fan2.color = "blue"
     fan2.on = False
+
+    print("FAN 1 DETAILS:")
