@@ -12,10 +12,10 @@ class Pet:
         self.__animal_type = str(animal_type)
 
     def set_age(self, age):
-        
+
 
     def get_name(self):
-        pass
+        
 
     def get_animal_type(self):
         pass
