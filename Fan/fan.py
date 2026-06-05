@@ -17,7 +17,7 @@ if __name__ == '__main__':
     fan2.color = "blue"
     fan2.on = False
 
-    print("FAN 1 DETAILS:")
+    print(f" {YELLOW}FAN 1 DETAILS:")
     print(f"Speed:  {fan1.speed}")
     print(f"Radius:  {fan1.radius}")
     print(f"Color:  {fan1.color}")
