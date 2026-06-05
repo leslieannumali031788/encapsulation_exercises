@@ -22,6 +22,6 @@ if __name__ == '__main__':
 
     print("FAN 2 DETAILS:")
     print(f"Speed:  {fan2.speed}")
-    print(f"Radius:  {fan1.radius}")
-    print(f"Color:  {fan1.color}")
-    print(f"Status:  {'ON' if fan1.on else 'OFF'}\n")
+    print(f"Radius:  {fan2.radius}")
+    print(f"Color:  {fan2.color}")
+    print(f"Status:  {'ON' if fan2.on else 'OFF'}\n")
