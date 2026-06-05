@@ -18,3 +18,5 @@ if __name__ == "__main__":
     my_pet.set_age(input_age)
 
     print(f"{GREEN} Retrieved Dashboard Records")
+    print(f"Pet Name: {my_pet.get_name()}")
+    
