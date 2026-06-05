@@ -7,3 +7,5 @@ if __name__ == '__main__':
     fan1.radius = 10.0
     fan1.color = "yellow"
     fan1.on = True
+
+    fan2 = Fan()
