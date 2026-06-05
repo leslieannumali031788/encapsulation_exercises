@@ -7,3 +7,4 @@ if __name__ == "__main__":
 
 
     print(f"{CYAN} Pet Profile")
+    input_name = input("Enter your pet's name: ")
