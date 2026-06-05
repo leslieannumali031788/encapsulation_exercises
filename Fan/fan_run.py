@@ -29,3 +29,5 @@ class Fan:
     def color(self, value):
         self.__color = str(value)
 
+    def on(self):
+
