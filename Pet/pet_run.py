@@ -12,7 +12,7 @@ class Pet:
         self.__animal_type = str(animal_type)
 
     def set_age(self, age):
-
+        if int(age) >= 0:
 
     def get_name(self):
 
@@ -21,4 +21,4 @@ class Pet:
 
 
     def get_age(self):
-        
+
