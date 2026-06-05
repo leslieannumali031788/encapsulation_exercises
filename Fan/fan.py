@@ -15,3 +15,4 @@ if __name__ == '__main__':
     fan2.on = False
 
     print("FAN 1 DETAILS:")
+    print(f"Speed:  {fan1.speed}")
