@@ -18,3 +18,4 @@ if __name__ == '__main__':
     print(f"Speed:  {fan1.speed}")
     print(f"Radius:  {fan1.radius}")
     print(f"Color:  {fan1.color}")
+    print(f"Status:  {'ON' if fan1.on else 'OFF'}\n")
