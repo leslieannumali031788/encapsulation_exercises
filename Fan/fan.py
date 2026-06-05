@@ -9,3 +9,4 @@ if __name__ == '__main__':
     fan1.on = True
 
     fan2 = Fan()
+    fan2.speed = Fan.MEDIUM
