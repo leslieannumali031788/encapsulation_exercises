@@ -18,7 +18,7 @@ class Pet:
 
 
     def get_animal_type(self):
-        gi
+
 
     def get_age(self):
-        pass
+        
