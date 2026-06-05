@@ -16,3 +16,5 @@ if __name__ == "__main__":
     my_pet.set_name(input_name)
     my_pet.set_animal_type(input_type)
     my_pet.set_age(input_age)
+
+    print(f"{GREEN} Retrieved Dashboard Records")
