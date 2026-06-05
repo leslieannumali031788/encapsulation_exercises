@@ -16,7 +16,7 @@ class Pet:
             self.__age = int(age)
 
     def get_name(self):
-
+        return self.__name
 
     def get_animal_type(self):
 
