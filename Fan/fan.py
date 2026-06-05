@@ -11,3 +11,4 @@ if __name__ == '__main__':
     fan2 = Fan()
     fan2.speed = Fan.MEDIUM
     fan2.radius = 5.0
+    fan2.color = "blue"
