@@ -17,3 +17,7 @@ class Pet:
 
     def get_animal_type(self):
         pass
+
+    def get_age(self):
+        pass
+    
