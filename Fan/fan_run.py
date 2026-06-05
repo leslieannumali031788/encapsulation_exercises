@@ -27,4 +27,5 @@ class Fan:
         return self.__color
 
     def color(self, value):
+        self.__color = str(value)
 
