@@ -7,3 +7,5 @@ class Pet:
         pass
 
     def set_animal_type(self, animal_type):
+
+    def set_age(self, age):
