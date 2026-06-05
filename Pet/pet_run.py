@@ -13,6 +13,7 @@ class Pet:
 
     def set_age(self, age):
         if int(age) >= 0:
+            self.__age = int(age)
 
     def get_name(self):
 
